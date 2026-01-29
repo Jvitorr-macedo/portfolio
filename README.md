@@ -34,8 +34,8 @@ Algumas das tecnologias que utilizo:
 ## 📫 Contato
 
 - GitHub: [https://github.com/Jvitorr-macedo](https://github.com/Jvitorr-macedo)
-- LinkedIn: *(adicione aqui se quiser)*
-- Email: *(opcional)*
+- LinkedIn: *(linkedin.com/in/joão-vitor-macêdo-552b04354)*
+- Email: *(jvitormaced@gmail.com)*
 
 ---
 
