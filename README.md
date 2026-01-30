@@ -27,7 +27,7 @@ Algumas das tecnologias que utilizo:
 
 
 ## 🌐 Acesse o Portfólio
-👉 **[Em breve / Coloque aqui o link do site]**
+👉 **[[Em breve / Coloque aqui o link do site](https://meu-portfolio-m1y0lktdg-joao-vitors-projects-f868d7e6.vercel.app/)]**
 
 ---
 
